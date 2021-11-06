@@ -24,8 +24,8 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/Nishkarsh01/defending-himalayas-website/issues/1) in [Nishkarsh01/defending-himalayas-website](https://github.com/Nishkarsh01/defending-himalayas-website)
-2. 💪 Opened PR [#1](https://github.com/Nishkarsh01/defending-himalayas-website/pull/1) in [Nishkarsh01/defending-himalayas-website](https://github.com/Nishkarsh01/defending-himalayas-website)
-3. 🗣 Commented on [#416](https://github.com/kallaway/100-days-of-code/issues/416) in [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
+2. 🗣 Commented on [#1](https://github.com/Nishkarsh01/defending-himalayas-website/issues/1) in [Nishkarsh01/defending-himalayas-website](https://github.com/Nishkarsh01/defending-himalayas-website)
+3. 🗣 Commented on [#1](https://github.com/Nishkarsh01/defending-himalayas-website/issues/1) in [Nishkarsh01/defending-himalayas-website](https://github.com/Nishkarsh01/defending-himalayas-website)
 <!--END_SECTION:activity-->
 
 </details>
