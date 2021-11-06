@@ -23,9 +23,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#416](https://github.com/kallaway/100-days-of-code/issues/416) in [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
-2. ❗️ Closed issue [#1](https://github.com/ilyasbabu/github-slideshow/issues/1) in [ilyasbabu/github-slideshow](https://github.com/ilyasbabu/github-slideshow)
-3. 💪 Opened PR [#210](https://github.com/Ping-Foundation/Yeng-Website/pull/210) in [Ping-Foundation/Yeng-Website](https://github.com/Ping-Foundation/Yeng-Website)
+1. 💪 Opened PR [#1](https://github.com/Nishkarsh01/defending-himalayas-website/pull/1) in [Nishkarsh01/defending-himalayas-website](https://github.com/Nishkarsh01/defending-himalayas-website)
+2. 🗣 Commented on [#416](https://github.com/kallaway/100-days-of-code/issues/416) in [kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)
+3. ❗️ Closed issue [#1](https://github.com/ilyasbabu/github-slideshow/issues/1) in [ilyasbabu/github-slideshow](https://github.com/ilyasbabu/github-slideshow)
 <!--END_SECTION:activity-->
 
 </details>
