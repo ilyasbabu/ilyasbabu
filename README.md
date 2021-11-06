@@ -23,7 +23,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-      updating soon...
 <!--END_SECTION:activity-->
 
 </details>
