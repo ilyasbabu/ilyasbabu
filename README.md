@@ -1,5 +1,10 @@
-### Hi there, I'm Ilyas Babu
+
+### Hi there, I'm Ilyas Babu <p align="right"> <img src="https://komarev.com/ghpvc/?username=ilyasbabu&color=green&style=flat-square" alt="ilyasbabu" /> </p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/ely_bbu?color=%231DA1F2&label=Follow%20%40ilyas&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Filyasbabu&screen_name=ely_bbu)
+
+
+
 
 - 👀 I’m looking to collaborate with amazing people to learn more
 - 🌱 I’m currently learning everything
@@ -16,7 +21,7 @@
 [twitter]:https://twitter.com/ely_bbu
 [linkedin]:https://www.linkedin.com/in/ilyas-babu-a802b31b0/
 [instagram]:https://www.instagram.com/ily4ax/
-[discord]:https://discord.gg/jKkuUcGPHG
+[discord]:https://discordapp.com/users/728447035648245780
 
 <br><br>
 <details>
