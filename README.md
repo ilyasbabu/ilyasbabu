@@ -28,9 +28,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/anshidnm/anshidnm/pull/1) in [anshidnm/anshidnm](https://github.com/anshidnm/anshidnm)
-2. 💪 Opened PR [#8](https://github.com/Nishkarsh01/defending-himalayas-website/pull/8) in [Nishkarsh01/defending-himalayas-website](https://github.com/Nishkarsh01/defending-himalayas-website)
-3. 💪 Opened PR [#7](https://github.com/Nishkarsh01/defending-himalayas-website/pull/7) in [Nishkarsh01/defending-himalayas-website](https://github.com/Nishkarsh01/defending-himalayas-website)
+1. 🗣 Commented on [#14127](https://github.com/microsoft/PowerToys/issues/14127) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+2. 💪 Opened PR [#1](https://github.com/anshidnm/anshidnm/pull/1) in [anshidnm/anshidnm](https://github.com/anshidnm/anshidnm)
+3. 💪 Opened PR [#8](https://github.com/Nishkarsh01/defending-himalayas-website/pull/8) in [Nishkarsh01/defending-himalayas-website](https://github.com/Nishkarsh01/defending-himalayas-website)
 <!--END_SECTION:activity-->
 
 </details>
