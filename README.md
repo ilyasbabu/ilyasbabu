@@ -28,9 +28,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Bhagyadev79/Bhagyadev79/pull/2) in [Bhagyadev79/Bhagyadev79](https://github.com/Bhagyadev79/Bhagyadev79)
-2. 💪 Opened PR [#1](https://github.com/Bhagyadev79/Bhagyadev79/pull/1) in [Bhagyadev79/Bhagyadev79](https://github.com/Bhagyadev79/Bhagyadev79)
-3. 💪 Opened PR [#45197](https://github.com/firstcontributions/first-contributions/pull/45197) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 💪 Opened PR [#45197](https://github.com/firstcontributions/first-contributions/pull/45197) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. ❗️ Opened issue [#1](https://github.com/anasvemmully/RCalc/issues/1) in [anasvemmully/RCalc](https://github.com/anasvemmully/RCalc)
+3. 🗣 Commented on [#14127](https://github.com/microsoft/PowerToys/issues/14127) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 <!--END_SECTION:activity-->
 
 </details>
