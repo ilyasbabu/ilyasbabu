@@ -28,9 +28,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45197](https://github.com/firstcontributions/first-contributions/pull/45197) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. ❗️ Opened issue [#1](https://github.com/anasvemmully/RCalc/issues/1) in [anasvemmully/RCalc](https://github.com/anasvemmully/RCalc)
-3. 🗣 Commented on [#14127](https://github.com/microsoft/PowerToys/issues/14127) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+1. ❗️ Opened issue [#348](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/issues/348) in [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher)
+2. 💪 Opened PR [#45197](https://github.com/firstcontributions/first-contributions/pull/45197) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+3. ❗️ Opened issue [#1](https://github.com/anasvemmully/RCalc/issues/1) in [anasvemmully/RCalc](https://github.com/anasvemmully/RCalc)
 <!--END_SECTION:activity-->
 
 </details>
