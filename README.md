@@ -28,9 +28,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#348](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/issues/348) in [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher)
-2. 💪 Opened PR [#45197](https://github.com/firstcontributions/first-contributions/pull/45197) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-3. ❗️ Opened issue [#1](https://github.com/anasvemmully/RCalc/issues/1) in [anasvemmully/RCalc](https://github.com/anasvemmully/RCalc)
+1. ❗️ Opened issue [#6943](https://github.com/simple-icons/simple-icons/issues/6943) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❗️ Opened issue [#348](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/issues/348) in [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher)
+3. 💪 Opened PR [#45197](https://github.com/firstcontributions/first-contributions/pull/45197) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
 </details>
