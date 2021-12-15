@@ -28,9 +28,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Suryam26/Question-Bank/issues/1) in [Suryam26/Question-Bank](https://github.com/Suryam26/Question-Bank)
-2. ❗️ Opened issue [#10](https://github.com/Congregalis/question_bank/issues/10) in [Congregalis/question_bank](https://github.com/Congregalis/question_bank)
-3. ❗️ Opened issue [#6943](https://github.com/simple-icons/simple-icons/issues/6943) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#10](https://github.com/Congregalis/question_bank/issues/10) in [Congregalis/question_bank](https://github.com/Congregalis/question_bank)
+2. ❗️ Opened issue [#1](https://github.com/Suryam26/Question-Bank/issues/1) in [Suryam26/Question-Bank](https://github.com/Suryam26/Question-Bank)
+3. ❗️ Opened issue [#10](https://github.com/Congregalis/question_bank/issues/10) in [Congregalis/question_bank](https://github.com/Congregalis/question_bank)
 <!--END_SECTION:activity-->
 
 </details>
