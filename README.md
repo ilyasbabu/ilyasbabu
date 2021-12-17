@@ -28,9 +28,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1478](https://github.com/YTVanced/Vanced/issues/1478) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
-2. 🗣 Commented on [#10](https://github.com/Congregalis/question_bank/issues/10) in [Congregalis/question_bank](https://github.com/Congregalis/question_bank)
-3. ❗️ Opened issue [#1](https://github.com/Suryam26/Question-Bank/issues/1) in [Suryam26/Question-Bank](https://github.com/Suryam26/Question-Bank)
+1. 🗣 Commented on [#1478](https://github.com/YTVanced/Vanced/issues/1478) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
+2. 🗣 Commented on [#1478](https://github.com/YTVanced/Vanced/issues/1478) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
+3. ❗️ Opened issue [#1478](https://github.com/YTVanced/Vanced/issues/1478) in [YTVanced/Vanced](https://github.com/YTVanced/Vanced)
 <!--END_SECTION:activity-->
 
 </details>
