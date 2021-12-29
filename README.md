@@ -28,9 +28,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ilyasbabu/questio-bank-django/pull/2) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
-2. 🗣 Commented on [#10](https://github.com/Congregalis/question_bank/issues/10) in [Congregalis/question_bank](https://github.com/Congregalis/question_bank)
-3. 🎉 Merged PR [#1](https://github.com/ilyasbabu/questio-bank-django/pull/1) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
+1. 🎉 Merged PR [#3](https://github.com/ilyasbabu/questio-bank-django/pull/3) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
+2. 🎉 Merged PR [#2](https://github.com/ilyasbabu/questio-bank-django/pull/2) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
+3. 🗣 Commented on [#10](https://github.com/Congregalis/question_bank/issues/10) in [Congregalis/question_bank](https://github.com/Congregalis/question_bank)
 <!--END_SECTION:activity-->
 
 </details>
