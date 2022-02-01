@@ -28,9 +28,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#219](https://github.com/Sangwan5688/BlackHole/issues/219) in [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole)
-2. 🎉 Merged PR [#1](https://github.com/ilyasbabu/arts-sports-management-django/pull/1) in [ilyasbabu/arts-sports-management-django](https://github.com/ilyasbabu/arts-sports-management-django)
-3. 🎉 Merged PR [#4](https://github.com/ilyasbabu/questio-bank-django/pull/4) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
+1. 🎉 Merged PR [#7](https://github.com/ilyasbabu/questio-bank-django/pull/7) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
+2. 🎉 Merged PR [#6](https://github.com/ilyasbabu/questio-bank-django/pull/6) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
+3. 🎉 Merged PR [#5](https://github.com/ilyasbabu/questio-bank-django/pull/5) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
 <!--END_SECTION:activity-->
 
 </details>
