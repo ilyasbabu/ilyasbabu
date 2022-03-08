@@ -36,9 +36,9 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasba
   <summary>:zap: <b>Recent GitHub Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django/issues/1) in [rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django](https://github.com/rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django)
-2. ❗️ Opened issue [#2](https://github.com/rajtoshranjan/Certificate-Generator-Sender/issues/2) in [rajtoshranjan/Certificate-Generator-Sender](https://github.com/rajtoshranjan/Certificate-Generator-Sender)
-3. 🎉 Merged PR [#9](https://github.com/ilyasbabu/questio-bank-django/pull/9) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
+1. 💪 Opened PR [#35](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/35) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
+2. ❗️ Opened issue [#1](https://github.com/rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django/issues/1) in [rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django](https://github.com/rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django)
+3. ❗️ Opened issue [#2](https://github.com/rajtoshranjan/Certificate-Generator-Sender/issues/2) in [rajtoshranjan/Certificate-Generator-Sender](https://github.com/rajtoshranjan/Certificate-Generator-Sender)
 <!--END_SECTION:activity-->
 
 </details>
