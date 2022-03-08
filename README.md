@@ -36,9 +36,9 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasba
   <summary>:zap: <b>Recent GitHub Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/35) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
-2. ❗️ Opened issue [#1](https://github.com/rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django/issues/1) in [rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django](https://github.com/rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django)
-3. ❗️ Opened issue [#2](https://github.com/rajtoshranjan/Certificate-Generator-Sender/issues/2) in [rajtoshranjan/Certificate-Generator-Sender](https://github.com/rajtoshranjan/Certificate-Generator-Sender)
+1. 🗣 Commented on [#348](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/issues/348) in [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher)
+2. 💪 Opened PR [#35](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/35) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
+3. ❗️ Opened issue [#1](https://github.com/rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django/issues/1) in [rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django](https://github.com/rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django)
 <!--END_SECTION:activity-->
 
 </details>
