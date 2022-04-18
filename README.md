@@ -36,9 +36,9 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasba
   <summary>:zap: <b>Recent GitHub Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#348](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/issues/348) in [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher)
-2. 💪 Opened PR [#35](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/35) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
-3. ❗️ Opened issue [#1](https://github.com/rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django/issues/1) in [rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django](https://github.com/rajtoshranjan/Automatic-certificate-generator-and-sender-website-using-Django)
+1. 🎉 Merged PR [#10](https://github.com/ilyasbabu/questio-bank-django/pull/10) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
+2. 🗣 Commented on [#348](https://github.com/fAndreuzzi/TUI-ConsoleLauncher/issues/348) in [fAndreuzzi/TUI-ConsoleLauncher](https://github.com/fAndreuzzi/TUI-ConsoleLauncher)
+3. 💪 Opened PR [#35](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/35) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
 <!--END_SECTION:activity-->
 
 </details>
