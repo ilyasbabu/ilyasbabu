@@ -36,9 +36,9 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasba
   <summary>:zap: <b>Recent GitHub Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/ilyasbabu/questio-bank-django/pull/11) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
-2. 🎉 Merged PR [#2](https://github.com/ilyasbabu/simple-todo-django-app/pull/2) in [ilyasbabu/simple-todo-django-app](https://github.com/ilyasbabu/simple-todo-django-app)
-3. 🎉 Merged PR [#10](https://github.com/ilyasbabu/questio-bank-django/pull/10) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
+1. 💪 Opened PR [#1](https://github.com/Dolab-creatives/realestat/pull/1) in [Dolab-creatives/realestat](https://github.com/Dolab-creatives/realestat)
+2. 🎉 Merged PR [#11](https://github.com/ilyasbabu/questio-bank-django/pull/11) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
+3. 🎉 Merged PR [#2](https://github.com/ilyasbabu/simple-todo-django-app/pull/2) in [ilyasbabu/simple-todo-django-app](https://github.com/ilyasbabu/simple-todo-django-app)
 <!--END_SECTION:activity-->
 
 </details>
