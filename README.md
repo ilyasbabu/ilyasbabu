@@ -1,4 +1,4 @@
-### Hi there, I'm Ilyas Babu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> 
+### Hi there, I'm Ilyas Babu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> 
 I'm Ilyas, a passionate Developer based in India. I'm comfortable with TailwindCss for Frontend and Django for Backend (but always learning more). I would love to build Web Applications with robust features.<br><br>
 <img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="300" /> 
 Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasbabuvp@gmail.com](mailto:ilyasbabuvp@gmail.com).
