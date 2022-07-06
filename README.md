@@ -36,9 +36,9 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasba
   <summary>:zap: <b>Recent GitHub Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/ilyasbabu/questio-bank-django/pull/12) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
-2. 🎉 Merged PR [#3](https://github.com/ilyasbabu/simple-todo-django-app/pull/3) in [ilyasbabu/simple-todo-django-app](https://github.com/ilyasbabu/simple-todo-django-app)
-3. 🗣 Commented on [#44](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/44) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+1. 🎉 Merged PR [#13](https://github.com/ilyasbabu/questio-bank-django/pull/13) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
+2. 🎉 Merged PR [#12](https://github.com/ilyasbabu/questio-bank-django/pull/12) in [ilyasbabu/questio-bank-django](https://github.com/ilyasbabu/questio-bank-django)
+3. 🎉 Merged PR [#3](https://github.com/ilyasbabu/simple-todo-django-app/pull/3) in [ilyasbabu/simple-todo-django-app](https://github.com/ilyasbabu/simple-todo-django-app)
 <!--END_SECTION:activity-->
 
 </details>
