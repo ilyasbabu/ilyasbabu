@@ -36,9 +36,9 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasba
   <summary>:zap: <b>Recent GitHub Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ilyasbabu/ilyasbabu.github.io/pull/3) in [ilyasbabu/ilyasbabu.github.io](https://github.com/ilyasbabu/ilyasbabu.github.io)
-2. 🎉 Merged PR [#2](https://github.com/ilyasbabu/ilyasbabu.github.io/pull/2) in [ilyasbabu/ilyasbabu.github.io](https://github.com/ilyasbabu/ilyasbabu.github.io)
-3. 🎉 Merged PR [#1](https://github.com/ilyasbabu/ilyasbabu.github.io/pull/1) in [ilyasbabu/ilyasbabu.github.io](https://github.com/ilyasbabu/ilyasbabu.github.io)
+1. 🎉 Merged PR [#1](https://github.com/ilyasbabu/makemore-design/pull/1) in [ilyasbabu/makemore-design](https://github.com/ilyasbabu/makemore-design)
+2. 🎉 Merged PR [#1](https://github.com/ilyasbabu/realestat/pull/1) in [ilyasbabu/realestat](https://github.com/ilyasbabu/realestat)
+3. 🎉 Merged PR [#15](https://github.com/ilyasbabu/question-bank-management-system/pull/15) in [ilyasbabu/question-bank-management-system](https://github.com/ilyasbabu/question-bank-management-system)
 <!--END_SECTION:activity-->
 
 </details>
