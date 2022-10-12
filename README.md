@@ -40,6 +40,9 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasba
 2. 🗣 Commented on [#7](https://github.com/vacchiano/HireDjango/issues/7) in [vacchiano/HireDjango](https://github.com/vacchiano/HireDjango)
 3. 🎉 Merged PR [#1](https://github.com/ilyasbabu/makemore-design/pull/1) in [ilyasbabu/makemore-design](https://github.com/ilyasbabu/makemore-design)
 <!--END_SECTION:activity-->
-
 </details>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ilyasbabu&color=green&style=flat-square" alt="ilyasbabu" /> </p>
+
+<p align="center">*Page Views**(Counting since 7th Nov 2021):</p>
+<p align="center">
+<img src="https://profile-counter.glitch.me/ilyasbabu/count.svg" />
+</p>
