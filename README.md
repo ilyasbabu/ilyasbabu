@@ -42,7 +42,7 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasba
 <!--END_SECTION:activity-->
 </details>
 
-<p align="center">*Page Views**(Counting since 7th Nov 2021):</p>
+<p align="center" style="font-size:400px;"><i>Page Views</i>(Counting since 7th Nov 2021):</p>
 <p align="center">
-<img src="https://profile-counter.glitch.me/ilyasbabu/count.svg" />
+<img src="https://profile-counter.glitch.me/ilyasbabu/count.svg" width="170" />
 </p>
