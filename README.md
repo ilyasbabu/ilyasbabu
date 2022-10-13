@@ -6,8 +6,7 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasba
 [![Twitter Follow](https://img.shields.io/twitter/follow/ely_bbu?color=%231DA1F2&label=Follow%20%40ilyas&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Filyasbabu&screen_name=ely_bbu)
 
 #### I'm Currently 
-- Practicing Django by devloping projects. 
-- Building Portfolio project, Question bank project & Arts and sports management project.
+- Working as a python full-stack developer.
 - Looking to collaborate with like-minded people to learn more
 - Huslting and improving.
 
