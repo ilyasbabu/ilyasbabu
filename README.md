@@ -3,7 +3,9 @@ I'm Ilyas, a passionate Developer based in India. I'm comfortable with TailwindC
 <img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="300" /> 
 Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasbabuvp@gmail.com](mailto:ilyasbabuvp@gmail.com).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ely_bbu?color=%231DA1F2&label=Follow%20%40ilyas&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Filyasbabu&screen_name=ely_bbu)
+<a href="https://stackoverflow.com/users/16475089/ilyasbbu"><img src="https://stackoverflow.com/users/flair/16475089.png?theme=dark" width="156" height="44" alt="profile for Ilyas Babu at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ilyas Babu at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Filyasbabu&screen_name=ely_bbu"><img src="https://img.shields.io/twitter/follow/ely_bbu?color=%231DA1F2&label=Follow%20%40ilyas&logo=Twitter&style=for-the-badge" /></a>
 
 #### I'm Currently 
 - Working as a python full-stack developer.
