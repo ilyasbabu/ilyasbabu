@@ -38,9 +38,9 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasba
   <summary>:zap: <b>Recent GitHub Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/Harshika9415/Hacktoberfest2022/pull/83) in [Harshika9415/Hacktoberfest2022](https://github.com/Harshika9415/Hacktoberfest2022)
-2. 🗣 Commented on [#7](https://github.com/vacchiano/HireDjango/issues/7) in [vacchiano/HireDjango](https://github.com/vacchiano/HireDjango)
-3. 🎉 Merged PR [#1](https://github.com/ilyasbabu/makemore-design/pull/1) in [ilyasbabu/makemore-design](https://github.com/ilyasbabu/makemore-design)
+1. 💪 Opened PR [#1](https://github.com/Dexters-Hub/Dexters-Hub/pull/1) in [Dexters-Hub/Dexters-Hub](https://github.com/Dexters-Hub/Dexters-Hub)
+2. 💪 Opened PR [#83](https://github.com/Harshika9415/Hacktoberfest2022/pull/83) in [Harshika9415/Hacktoberfest2022](https://github.com/Harshika9415/Hacktoberfest2022)
+3. 🗣 Commented on [#7](https://github.com/vacchiano/HireDjango/issues/7) in [vacchiano/HireDjango](https://github.com/vacchiano/HireDjango)
 <!--END_SECTION:activity-->
 </details>
 
