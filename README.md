@@ -42,8 +42,8 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasba
   <summary>:zap: <b>Recent GitHub Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ilyasbabu/france-football-mulearn-pygrammer/pull/1) in [ilyasbabu/france-football-mulearn-pygrammer](https://github.com/ilyasbabu/france-football-mulearn-pygrammer)
-2. 💪 Opened PR [#1](https://github.com/Dexters-Hub/Dexters-Hub/pull/1) in [Dexters-Hub/Dexters-Hub](https://github.com/Dexters-Hub/Dexters-Hub)
+1. ❗️ Opened issue [#511](https://github.com/Sangwan5688/BlackHole/issues/511) in [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole)
+2. 🎉 Merged PR [#1](https://github.com/ilyasbabu/france-football-mulearn-pygrammer/pull/1) in [ilyasbabu/france-football-mulearn-pygrammer](https://github.com/ilyasbabu/france-football-mulearn-pygrammer)
 3. 💪 Opened PR [#83](https://github.com/Harshika9415/Hacktoberfest2022/pull/83) in [Harshika9415/Hacktoberfest2022](https://github.com/Harshika9415/Hacktoberfest2022)
 <!--END_SECTION:activity-->
 </details>
