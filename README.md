@@ -13,16 +13,18 @@ Do you have a idea in mind? I will be happy to collaborate. Reach me at [ilyasba
 - Huslting and improving.
 
 #### I'm Familiar With 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
-<code><img height="30" src="https://logodix.com/logo/1758841.png"></code> 
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code> 
-<code><img height="30" src="https://buildwithangga.com/storage/assets/images/tools/logo_tailwind.png"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="30" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="30" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+<code><img height="30" title="Django" src="https://logodix.com/logo/1758841.png"></code> 
+<code><img height="30" title="FastAPI" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"></code> 
+<code><img height="30" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+<code><img height="30" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" title="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" title="TailwindCss" src="https://buildwithangga.com/storage/assets/images/tools/logo_tailwind.png"></code> 
+<code><img height="30" title="ReactJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code> 
+<code><img height="30" title="Redux" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"></code> 
+<code><img height="30" title="KnockoutJS" src="https://www.bleed6.com/assets/images/skills/knockout.svg"></code> 
+<code><img height="30" title="GIT" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png"></code>
+<code><img height="30" title="Postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 #### Connect with me:
 [<img style="filter: invert()" align="left" alt="ilyas | Twitter" width="28px" src="https://img.icons8.com/color/48/000000/twitter.png"/>][twitter]
